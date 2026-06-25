@@ -1,1 +1,2 @@
 # AI-use-case-design
+🤖 AI-use-case-design — A project exploring and designing practical AI use cases for real-world problems. This repository focuses on identifying business and technical scenarios where AI/ML can add value, defining problem statements, mapping data requirements, and outlining solution approaches before moving into model development. The aim is to bridge the gap between business needs and AI implementation through structured, well-thought-out use case design.
